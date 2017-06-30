@@ -1,0 +1,5 @@
+# Conception Calculator  
+
+This is a simple conception calculator. What sets this apart from otherswill become apparent as features are added.
+
+
